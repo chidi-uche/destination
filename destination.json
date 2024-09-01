@@ -1,1 +1,1417 @@
 
+[
+    {
+        "destination": "Canada",
+        "slug": "canada",
+        "code": "YYZ",
+        "generalInformation": {
+            "country": "Canada",
+            "currency": "Canadian Dollar (CAD)",
+            "language": [
+                "English",
+                "French"
+            ],
+            "hubAirport": "Toronto Pearson International Airport (YYZ)",
+            "airline": "Air Canada",
+            "timeZone": "GMT-5 to GMT-8",
+            "travelAdaptor": [
+                "Type A",
+                "Type B"
+            ]
+        },
+        "about": "Canada is the second-largest country in the world by land area, located in North America. It is known for its vast and diverse landscapes, including mountains, forests, lakes, and coastlines. Canada shares the world's longest international border with the United States to the south.",
+        "attractions": [
+            {
+                "name": "Banff National Park",
+                "description": "A breathtaking mountain resort town in Alberta, known for its stunning mountain scenery, glaciers, and abundant wildlife.",
+                "image": ""
+            },
+            {
+                "name": "Old Quebec City",
+                "description": "A historic neighborhood in Quebec City, featuring cobblestone streets, charming boutiques, and vibrant culture.",
+                "image": ""
+            },
+            {
+                "name": "Capilano Suspension Bridge Park",
+                "description": "A popular outdoor attraction in Vancouver, featuring suspension bridges, cliff walks, and stunning forest scenery.",
+                "image": ""
+            },
+            {
+                "name": "Toronto Islands",
+                "description": "A car-free haven in Lake Ontario, offering beautiful parks, beaches, and stunning city skyline views.",
+                "image": ""
+            },
+            {
+                "name": "Montreal Museum of Fine Arts",
+                "description": "A prestigious art museum in Montreal, showcasing a vast collection of Canadian and international art.",
+                "image": ""
+            },
+            {
+                "name": "Whistler Blackcomb",
+                "description": "A world-renowned ski resort in British Columbia, offering breathtaking mountain scenery and thrilling ski runs.",
+                "image": ""
+            }
+        ],
+        "howToBook": [
+            "Be Flexible: Consider traveling during off-peak seasons or weekdays to secure lower fares.",
+            "Compare Prices: Utilize online travel agencies and airline websites to compare prices and find the best deals.",
+            "Book in Advance: Booking your flights well in advance can often lead to significant savings.",
+            "Consider Deelaa Travel: Deelaa Travel is a trusted travel agency that can help you find affordable flights to Canada."
+        ],
+        "bannerImage": "",
+        "continent": "North America",
+        "popularAirlines": [
+            {
+                "image": "",
+                "airline": "Air Canada"
+            },
+            {
+                "image": "",
+                "airline": "WestJet"
+            },
+            {
+                "image": "",
+                "airline": "United Airlines"
+            }
+        ]
+    },
+    {
+        "destination": "California",
+        "slug": "california",
+        "code": "LAX",
+        "generalInformation": {
+            "state": "California",
+            "currency": "US Dollar (USD)",
+            "language": [
+                "English",
+                "Spanish"
+            ],
+            "hubAirports": [
+                "Los Angeles International Airport (LAX)",
+                "San Francisco International Airport (SFO)",
+                "San Diego International Airport (SAN)"
+            ],
+            "airlines": [
+                "American Airlines",
+                "Delta Air Lines",
+                "United Airlines"
+            ],
+            "timeZone": "GMT-8 (Pacific Time)",
+            "travelAdaptor": [
+                "Type A",
+                "Type B"
+            ]
+        },
+        "about": "California, the most populous state in the US, is a captivating blend of stunning beaches, snow-capped mountains, and vibrant cities. Renowned for its iconic Hollywood sign, scenic Pacific Coast Highway, and world-class wine regions, this state offers a unique experience for travelers. From the sun-kissed beaches of San Diego to the scenic Yosemite National Park, California has something to offer everyone.",
+        "attractions": [
+            {
+                "name": "Golden Gate Bridge",
+                "description": "An iconic suspension bridge in San Francisco, offering stunning views of the city and bay.",
+                "image": ""
+            },
+            {
+                "name": "Disneyland Resort",
+                "description": "A world-famous theme park in Anaheim, featuring Disney, Pixar, and Marvel-themed rides and attractions.",
+                "image": ""
+            },
+            {
+                "name": "Yosemite National Park",
+                "description": "A scenic national park, featuring granite cliffs, waterfalls, and giant sequoia groves.",
+                "image": ""
+            },
+            {
+                "name": "Napa Valley",
+                "description": "A world-class wine region, offering wine tastings, vineyard tours, and gourmet cuisine.",
+                "image": ""
+            },
+            {
+                "name": "Santa Monica Pier",
+                "description": "A historic pier in Los Angeles, featuring an amusement park, arcade games, and stunning ocean views.",
+                "image": ""
+            },
+            {
+                "name": "Lake Tahoe",
+                "description": "A scenic freshwater lake in the Sierra Nevada mountains, offering skiing, hiking, and water sports.",
+                "image": ""
+            },
+            {
+                "name": "Big Sur",
+                "description": "A scenic stretch of coastline along Highway 1, featuring rugged cliffs, rocky shores, and scenic hiking trails.",
+                "image": ""
+            },
+            {
+                "name": "Universal Studios Hollywood",
+                "description": "A film-themed amusement park, offering behind-the-scenes tours, live shows, and thrill rides.",
+                "image": ""
+            },
+            {
+                "name": "Monterey Bay Aquarium",
+                "description": "A world-class aquarium, featuring marine life, interactive exhibits, and stunning ocean views.",
+                "image": ""
+            }
+        ],
+        "howToBook": [
+            "Be Flexible: Consider traveling during off-peak seasons or weekdays to secure lower fares.",
+            "Compare Prices: Utilize online travel agencies and airline websites to compare prices and find the best deals.",
+            "Book in Advance: Booking your flights well in advance can often lead to significant savings.",
+            "Consider Deelaa Travel: Deelaa Travel is a trusted travel agency that can help you find affordable flights to California."
+        ],
+        "bannerImage": "",
+        "continent": "North America",
+        "popularAirlines": [
+            {
+                "image": "",
+                "airline": "American Airlines"
+            },
+            {
+                "image": "",
+                "airline": "Delta Air Lines"
+            },
+            {
+                "image": "",
+                "airline": "United Airlines"
+            }
+        ]
+    },
+    {
+        "destination": "Atlanta",
+        "slug": "atlanta",
+        "code": "ATL",
+        "generalInformation": {
+            "city": "Atlanta",
+            "state": "Georgia",
+            "currency": "US Dollar (USD)",
+            "language": "English",
+            "hubAirport": "Hartsfield-Jackson Atlanta International Airport (ATL)",
+            "airlines": [
+                "Delta Air Lines",
+                "American Airlines",
+                "Southwest Airlines"
+            ],
+            "timeZone": "GMT-5 (Eastern Time)",
+            "travelAdaptor": [
+                "Type A",
+                "Type B"
+            ]
+        },
+        "about": "Atlanta, the capital of Georgia, is a captivating blend of rich history, cultural attractions, and exciting entertainment options. Renowned for its iconic Martin Luther King Jr. National Historical Park, world-class museums, and vibrant music scene, this city offers a unique experience for travelers. From the historic Fox Theatre to the scenic Piedmont Park, Atlanta has something to offer everyone",
+        "attractions": [
+            {
+                "name": "Martin Luther King Jr. National Historical Park",
+                "description": "A historic site, featuring King's birthplace, tomb, and the Ebenezer Baptist Church.",
+                "image": ""
+            },
+            {
+                "name": "Georgia Aquarium",
+                "description": "A world-class aquarium, featuring thousands of aquatic species and interactive exhibits.",
+                "image": ""
+            },
+            {
+                "name": "World of Coca-Cola",
+                "description": "A museum, showcasing the history of the iconic beverage brand and offering tastings.",
+                "image": ""
+            },
+            {
+                "name": "Centennial Olympic Park",
+                "description": "A scenic park, built for the 1996 Summer Olympics, featuring a large fountain and various events.",
+                "image": ""
+            },
+            {
+                "name": "High Museum of Art",
+                "description": "A premier art museum, featuring a collection of African American art and rotating exhibitions.",
+                "image": ""
+            },
+            {
+                "name": "Ponce City Market",
+                "description": "A historic building, offering shopping, dining, and entertainment options.",
+                "image": ""
+            },
+            {
+                "name": "Fox Theatre",
+                "description": "A historic theater, featuring stunning architecture, live performances, and guided tours.",
+                "image": ""
+            },
+            {
+                "name": "Zoo Atlanta",
+                "description": "A zoo, featuring giant pandas, gorillas, and elephants, with a petting zoo and playground.",
+                "image": ""
+            },
+            {
+                "name": "Stone Mountain Park",
+                "description": "A scenic park, featuring a giant granite mountain, historic plantation, and recreational activities.",
+                "image": ""
+            }
+        ],
+        "howToBook": [
+            "Be Flexible: Consider traveling during off-peak seasons or weekdays to secure lower fares.",
+            "Compare Prices: Utilize online travel agencies and airline websites to compare prices and find the best deals.",
+            "Book in Advance: Booking your flights well in advance can often lead to significant savings.",
+            "Consider Deelaa Travel: Deelaa Travel is a trusted travel agency that can help you find affordable flights to Atlanta."
+        ],
+        "bannerImage": "",
+        "continent": "North America",
+        "popularAirlines": [
+            {
+                "image": "",
+                "airline": "Delta Air Lines"
+            },
+            {
+                "image": "",
+                "airline": "American Airlines"
+            },
+            {
+                "image": "",
+                "airline": "Southwest Airlines"
+            }
+        ]
+    },
+    {
+        "destination": "New York",
+        "slug": "new-york",
+        "code": "JFK",
+        "generalInformation": {
+            "city": "New York",
+            "state": "New York",
+            "currency": "US Dollar (USD)",
+            "language": "English",
+            "hubAirports": [
+                "John F. Kennedy International Airport (JFK)",
+                "LaGuardia Airport (LGA)",
+                "Newark Liberty International Airport (EWR)"
+            ],
+            "airlines": [
+                "American Airlines",
+                "Delta Air Lines",
+                "United Airlines"
+            ],
+            "timeZone": "GMT-5 (Eastern Time)",
+            "travelAdaptor": [
+                "Type A",
+                "Type B"
+            ]
+        },
+        "about": "New York, the largest city in the United States, is a global hub for culture, finance, media, art, fashion, technology, and entertainment. The city's iconic skyline, diverse neighborhoods, and unparalleled energy make it a destination like no other.",
+        "attractions": [
+            {
+                "name": "Statue of Liberty and Ellis Island",
+                "description": "Take a ferry to Liberty Island to see the iconic Statue of Liberty up close and visit the Ellis Island Immigration Museum.",
+                "image": ""
+            },
+            {
+                "name": "Central Park",
+                "description": "Explore the scenic paths, lakes, and landmarks of this 843-acre green oasis in the middle of Manhattan.",
+                "image": ""
+            },
+            {
+                "name": "Metropolitan Museum of Art",
+                "description": "Discover over 2 million works of art spanning 5,000 years of human history at one of the world's largest and most famous museums.",
+                "image": ""
+            },
+            {
+                "name": "9/11 Memorial & Museum",
+                "description": "Pay respects at the poignant tribute to the victims of the 9/11 attacks.",
+                "image": ""
+            },
+            {
+                "name": "Brooklyn Bridge",
+                "description": "Take a walk across this iconic bridge for spectacular views of the Manhattan skyline.",
+                "image": ""
+            },
+            {
+                "name": "Rockefeller Center",
+                "description": "Explore this complex of buildings, featuring NBC studios, a skating rink, and the famous Christmas tree lighting.",
+                "image": ""
+            },
+            {
+                "name": "Times Square",
+                "description": "Experience the bright lights, giant billboards, and lively atmosphere of the 'Crossroads of the World.'",
+                "image": ""
+            },
+            {
+                "name": "Museum of Modern Art (MoMA)",
+                "description": "Discover an extensive collection of modern and contemporary art at one of the world's premier museums.",
+                "image": ""
+            },
+            {
+                "name": "Grand Central Terminal",
+                "description": "Admire the stunning architecture and bustling atmosphere of this iconic train station.",
+                "image": ""
+            }
+        ],
+        "howToBook": [
+            "Be Flexible: Consider traveling during off-peak seasons or weekdays to secure lower fares.",
+            "Compare Prices: Utilize online travel agencies and airline websites to compare prices and find the best deals.",
+            "Book in Advance: Booking your flights well in advance can often lead to significant savings.",
+            "Consider Deelaa Travel: Deelaa Travel is a trusted travel agency that can help you find affordable flights to New York."
+        ],
+        "bannerImage": "",
+        "continent": "North America",
+        "popularAirlines": [
+            {
+                "image": "",
+                "airline": "American Airlines"
+            },
+            {
+                "image": "",
+                "airline": "Delta Air Lines"
+            },
+            {
+                "image": "",
+                "airline": "United Airlines"
+            }
+        ]
+    },
+    {
+        "destination": "Manchester",
+        "slug": "manchester",
+        "code": "MAN",
+        "generalInformation": {
+            "city": "Manchester",
+            "country": "England",
+            "currency": "Pound Sterling (GBP)",
+            "language": "English",
+            "hubAirport": "Manchester Airport (MAN)",
+            "airlines": [
+                "British Airways",
+                "EasyJet",
+                "Ryanair"
+            ],
+            "timeZone": "GMT+0 (Greenwich Mean Time)",
+            "travelAdaptor": "Type G"
+        },
+        "about": "Manchester, a city in North West England, is a hub of innovation, music, and football. Renowned for its textile industry, Manchester has evolved into a thriving city with a rich cultural scene.",
+        "attractions": [
+            {
+                "name": "National Football Museum",
+                "description": "Explore the history and legacy of football in England.",
+                "image": ""
+            },
+            {
+                "name": "John Rylands Library",
+                "description": "Discover this stunning Victorian-era library, featuring rare books and manuscripts.",
+                "image": ""
+            },
+            {
+                "name": "Manchester Museum",
+                "description": "Visit this museum, featuring Egyptian mummies, dinosaur fossils, and a fragment of the moon.",
+                "image": ""
+            },
+            {
+                "name": "The Lowry",
+                "description": "Enjoy theater, dance, and music performances at this waterfront arts centre.",
+                "image": ""
+            },
+            {
+                "name": "Manchester Art Gallery",
+                "description": "Discover over 25,000 works of art, including pieces by Lowry and Constable.",
+                "image": ""
+            },
+            {
+                "name": "Castlefield",
+                "description": "Explore this historic neighborhood, featuring canals, converted warehouses, and trendy cafes.",
+                "image": ""
+            },
+            {
+                "name": "Northern Quarter",
+                "description": "Visit this vibrant neighborhood, known for its street art, indie music scene, and trendy bars.",
+                "image": ""
+            },
+            {
+                "name": "Spinningfields",
+                "description": "Explore this upscale neighborhood, featuring luxury apartments, restaurants, and bars.",
+                "image": ""
+            },
+            {
+                "name": "Etihad Stadium",
+                "description": "Take a tour of the home stadium of Manchester City Football Club.",
+                "image": ""
+            }
+        ],
+        "howToBook": [
+            "Be Flexible: Consider traveling during off-peak seasons or weekdays to secure lower fares.",
+            "Compare Prices: Utilize online travel agencies and airline websites to compare prices and find the best deals.",
+            "Book in Advance: Booking your flights well in advance can often lead to significant savings.",
+            "Consider Deelaa Travel: Deelaa Travel is a trusted travel agency that can help you find affordable flights to Manchester. With their expertise and personalized service, they can assist you in planning a memorable trip."
+        ],
+        "bannerImage": "",
+        "continent": "Europe",
+        "popularAirlines": [
+            {
+                "image": "",
+                "airline": "British Airways"
+            },
+            {
+                "image": "",
+                "airline": "EasyJet"
+            },
+            {
+                "image": "",
+                "airline": "Ryanair"
+            }
+        ]
+    },
+    {
+        "destination": "Turkey",
+        "slug": "turkey",
+        "code": "IST",
+        "generalInformation": {
+            "country": "Turkey",
+            "currency": "Turkish Lira (TRY)",
+            "language": "Turkish",
+            "hubAirports": [
+                "Istanbul Airport (IST)",
+                "Ankara Esenboğa Airport (ESB)",
+                "Izmir Adnan Menderes Airport (ADB)"
+            ],
+            "airlines": [
+                "Turkish Airlines",
+                "Pegasus Airlines",
+                "SunExpress"
+            ],
+            "timeZone": "GMT+3 (Eastern European Summer Time)",
+            "travelAdaptor": [
+                "Type E",
+                "Type F"
+            ]
+        },
+        "about": "Turkey, a transcontinental country, straddles Europe and Asia, offering a unique blend of cultures, landscapes, and experiences. From ancient ruins to bustling bazaars, Turkey has something for every traveler.",
+        "attractions": [
+            {
+                "name": "Hagia Sophia",
+                "description": "Explore this iconic former Byzantine church, Ottoman mosque, and now museum.",
+                "image": ""
+            },
+            {
+                "name": "Topkapi Palace",
+                "description": "Discover the opulent primary residence of the Ottoman sultans for over 400 years.",
+                "image": ""
+            },
+            {
+                "name": "Basilica Cistern",
+                "description": "Marvel at this ancient underground water storage system.",
+                "image": ""
+            },
+            {
+                "name": "Pamukkale",
+                "description": "Visit this natural wonder, featuring travertine hot springs and ancient Hierapolis.",
+                "image": ""
+            },
+            {
+                "name": "Cappadocia",
+                "description": "Explore this unique landscape, characterized by fairy chimneys and honeycombed hills.",
+                "image": ""
+            },
+            {
+                "name": "Ephesus",
+                "description": "Walk through this ancient Greek city, featuring the Temple of Artemis and the Library of Celsus.",
+                "image": ""
+            },
+            {
+                "name": "Istanbul's Grand Bazaar",
+                "description": "Browse this historic marketplace, offering a vast array of goods and souvenirs.",
+                "image": ""
+            },
+            {
+                "name": "Antalya's Old Town",
+                "description": "Wander through this charming historic district, featuring Ottoman-era architecture.",
+                "image": ""
+            },
+            {
+                "name": "Ölüdeniz Beach",
+                "description": "Relax on this picturesque beach, known for its blue lagoon and scenic views.",
+                "image": ""
+            }
+        ],
+        "howToBook": [
+            "Be Flexible: Consider traveling during off-peak seasons or weekdays to secure lower fares.",
+            "Compare Prices: Utilize online travel agencies and airline websites to compare prices and find the best deals.",
+            "Book in Advance: Booking your flights well in advance can often lead to significant savings.",
+            "Consider Deelaa Travel: Deelaa Travel is a trusted travel agency that can help you find affordable flights to Turkey. With their expertise and personalized service, they can assist you in planning a memorable trip."
+        ],
+        "bannerImage": "",
+        "continent": "Europe",
+        "popularAirlines": [
+            {
+                "image": "",
+                "airline": "Turkish Airlines"
+            },
+            {
+                "image": "",
+                "airline": "Pegasus Airlines"
+            },
+            {
+                "image": "",
+                "airline": "SunExpress"
+            }
+        ]
+    },
+    {
+        "destination": "Cape Town",
+        "location": {
+            "city": "Cape Town",
+            "country": "South Africa"
+        },
+        "slug": "cape-town",
+        "code": "CPT",
+        "generalInformation": {
+            "country": "South Africa",
+            "currency": "South African Rand (ZAR)",
+            "language": [
+                "English",
+                "Afrikaans",
+                "isiXhosa"
+            ],
+            "hubAirport": "Cape Town International Airport (CPT)",
+            "airlines": [
+                "South African Airways"
+            ],
+            "timeZone": "GMT+2",
+            "travelAdaptor": [
+                "Type M",
+                "Type N",
+                "Type D"
+            ]
+        },
+        "about": "Cape Town, the legislative capital of South Africa, is a captivating blend of stunning natural beauty, vibrant culture, and rich history. Renowned for its iconic Table Mountain, pristine beaches, and world-class wine regions, this city offers a unique experience for travelers. From the stunning Cape of Good Hope to the bustling Bo-Kaap neighborhood, Cape Town has something to offer everyone.\n",
+        "attractions": [
+            {
+                "name": "Table Mountain",
+                "description": "An iconic flat-topped mountain and one of the New 7 Wonders of Nature, offering breathtaking views of the city.",
+                "image": ""
+            },
+            {
+                "name": "Cape of Good Hope",
+                "description": "A scenic peninsula at the southern tip of Africa, featuring stunning coastal scenery, beaches, and wildlife.",
+                "image": ""
+            },
+            {
+                "name": "Boulders Beach",
+                "description": "A popular beach in Simon's Town, famous for its colony of endangered African penguins.",
+                "image": ""
+            },
+            {
+                "name": "Robben Island",
+                "description": "A historic island and former prison of Nelson Mandela, offering guided tours and insight into South Africa's apartheid past.",
+                "image": ""
+            },
+            {
+                "name": "Kirstenbosch National Botanical Garden",
+                "description": "A beautiful garden at the foot of Table Mountain, featuring stunning floral displays and scenic walking trails.",
+                "image": ""
+            },
+            {
+                "name": "Camps Bay",
+                "description": "A vibrant beachside suburb, offering stunning beach scenery, restaurants, and bars.",
+                "image": ""
+            },
+            {
+                "name": "Winelands",
+                "description": "A scenic region just outside Cape Town, featuring world-class wine estates, rolling hills, and picturesque towns like Stellenbosch and Franschhoek.",
+                "image": ""
+            },
+            {
+                "name": "V&A Waterfront",
+                "description": "A bustling harbor area, offering shopping, dining, and entertainment options, as well as boat tours and scenic views.",
+                "image": ""
+            },
+            {
+                "name": "Lion's Head",
+                "description": "An iconic mountain peak, offering breathtaking views of the city and Atlantic Ocean, perfect for hiking and sunset-watching.",
+                "image": ""
+            }
+        ],
+        "howToBook": [
+            "Be Flexible: Consider traveling during off-peak seasons or weekdays to secure lower fares.",
+            "Compare Prices: Utilize online travel agencies and airline websites to compare prices and find the best deals.",
+            "Book in Advance: Booking your flights well in advance can often lead to significant savings.",
+            "Consider Deelaa Travel: Deelaa Travel is a trusted travel agency that can help you find affordable flights to Cape Town. With their expertise and personalized service, they can assist you in planning a memorable trip."
+        ],
+        "bannerImage": "",
+        "continent": "Africa",
+        "popularAirlines": [
+            {
+                "image": "",
+                "airline": "South African Airways"
+            },
+            {
+                "image": "",
+                "airline": "British Airways"
+            },
+            {
+                "image": "",
+                "airline": "Emirates"
+            }
+        ]
+    },
+    {
+        "destination": "London",
+        "location": {
+            "city": "London",
+            "country": "England"
+        },
+        "slug": "london",
+        "code": "LON",
+        "generalInformation": {
+            "country": "England",
+            "currency": "Pound Sterling (GBP)",
+            "language": [
+                "English"
+            ],
+            "hubAirport": "Heathrow (LHR), Gatwick (LGW), Stansted (STN), and London City (LCY)",
+            "airlines": [
+                "British Airways",
+                "EasyJet",
+                "Ryanair"
+            ],
+            "timeZone": "GMT+0 (Greenwich Mean Time)",
+            "travelAdaptor": [
+                "Type G"
+            ]
+        },
+        "about": "London, the capital of England, is a vibrant city steeped in history, culture, and entertainment. From Buckingham Palace to the British Museum, London offers a unique experience for travelers.",
+        "attractions": [
+            {
+                "name": "Buckingham Palace",
+                "description": "Witness the Changing of the Guard ceremony at the Queen's official residence.",
+                "image": ""
+            },
+            {
+                "name": "British Museum",
+                "description": "Explore over 8 million works of art and artifacts from around the world.",
+                "image": ""
+            },
+            {
+                "name": "The London Eye",
+                "description": "Enjoy panoramic views of the city from this giant Ferris wheel.",
+                "image": ""
+            },
+            {
+                "name": "The National Gallery",
+                "description": "Discover over 2,300 paintings, including works by Van Gogh and Monet.",
+                "image": ""
+            },
+            {
+                "name": "Tate Modern",
+                "description": "Experience contemporary art and culture at this former power station.",
+                "image": ""
+            },
+            {
+                "name": "Covent Garden",
+                "description": "Explore this historic district, featuring street performers, boutiques, and restaurants.",
+                "image": ""
+            },
+            {
+                "name": "Westminster Abbey",
+                "description": "Visit this beautiful Gothic church, site of coronations and royal weddings.",
+                "image": ""
+            },
+            {
+                "name": "Tower of London",
+                "description": "Explore this historic fortress, home to the Crown Jewels and the Yeoman Warders.",
+                "image": ""
+            },
+            {
+                "name": "Camden Market",
+                "description": "Browse this vibrant marketplace, featuring alternative fashion, street food, and live music.",
+                "image": ""
+            }
+        ],
+        "howToBook": [
+            "Be Flexible: Consider traveling during off-peak seasons or weekdays to secure lower fares.",
+            "Compare Prices: Utilize online travel agencies and airline websites to compare prices and find the best deals.",
+            "Book in Advance: Booking your flights well in advance can often lead to significant savings.",
+            "Consider Deelaa Travel: Deelaa Travel is a trusted travel agency that can help you find affordable flights to London. With their expertise and personalized service, they can assist you in planning a memorable trip."
+        ],
+        "bannerImage": "",
+        "continent": "Europe",
+        "popularAirlines": [
+            {
+                "image": "",
+                "airline": "British Airways"
+            },
+            {
+                "image": "",
+                "airline": "EasyJet"
+            },
+            {
+                "image": "",
+                "airline": "Ryanair"
+            }
+        ]
+    },
+    {
+        "destination": "Johannesburg",
+        "location": {
+            "city": "Johannesburg",
+            "country": "South Africa"
+        },
+        "slug": "johannesburg",
+        "code": "JNB",
+        "generalInformation": {
+            "currency": "South African Rand (ZAR)",
+            "language": [
+                "English",
+                "Afrikaans",
+                "isiZulu",
+                "Sesotho"
+            ],
+            "hubAirport": "OR Tambo International Airport (JNB)",
+            "airlines": [
+                "South African Airways"
+            ],
+            "timeZone": "GMT+2",
+            "travelAdaptor": [
+                "Type M",
+                "Type N",
+                "Type D"
+            ]
+        },
+        "about": "Johannesburg, the largest city in South Africa, is a captivating blend of rich history, vibrant culture, and modern attractions. Renowned for its gold rush heritage, world-class museums, and thrilling outdoor activities, this city offers a unique experience for travelers. From the historic Soweto township to the scenic Magaliesburg mountains, Johannesburg has something to offer everyone.",
+        "attractions": [
+            {
+                "name": "Apartheid Museum",
+                "description": "A poignant museum showcasing the history of apartheid and its impact on South Africa.",
+                "image": ""
+            },
+            {
+                "name": "Soweto Township",
+                "description": "A historic township and former home of Nelson Mandela, offering guided tours and insight into South Africa's past.",
+                "image": ""
+            },
+            {
+                "name": "Gold Reef City",
+                "description": "A theme park and entertainment complex, featuring roller coasters, water rides, and a casino.",
+                "image": ""
+            },
+            {
+                "name": "Johannesburg Art Gallery",
+                "description": "A premier art museum, featuring a collection of South African and international art.",
+                "image": ""
+            },
+            {
+                "name": "Constitution Hill",
+                "description": "A historic site and former prison, now home to the South African Constitutional Court.",
+                "image": ""
+            },
+            {
+                "name": "Maboneng Precinct",
+                "description": "A vibrant arts and culture district, offering street art, galleries, and trendy restaurants.",
+                "image": ""
+            },
+            {
+                "name": "Pilanesberg Game Reserve",
+                "description": "A scenic wildlife reserve, offering safari drives and the opportunity to spot the Big Five (lion, leopard, rhinoceros, elephant, and Cape buffalo).",
+                "image": ""
+            },
+            {
+                "name": "Magaliesburg Mountains",
+                "description": "A scenic mountain range, offering hiking trails, scenic views, and adventure activities like ziplining and horseback riding.",
+                "image": ""
+            },
+            {
+                "name": "Neighbourgoods Market",
+                "description": "A popular market, featuring local food, craft beer, and live music.",
+                "image": ""
+            }
+        ],
+        "howToBook": [
+            "Be Flexible: Consider traveling during off-peak seasons or weekdays to secure lower fares.",
+            "Compare Prices: Utilize online travel agencies and airline websites to compare prices and find the best deals.",
+            "Book in Advance: Booking your flights well in advance can often lead to significant savings.",
+            "Consider Deelaa Travel: Deelaa Travel is a trusted travel agency that can help you find affordable flights to Johannesburg. With their expertise and personalized service, they can assist you in planning a memorable trip."
+        ],
+        "bannerImage": "",
+        "continent": "Africa",
+        "popularAirlines": [
+            {
+                "image": "",
+                "airline": "South African Airways"
+            },
+            {
+                "image": "",
+                "airline": "British Airways"
+            },
+            {
+                "image": "",
+                "airline": "Emirates"
+            }
+        ]
+    },
+    {
+        "destination": "Nairobi",
+        "location": {
+            "city": "Nairobi",
+            "country": "Kenya"
+        },
+        "slug": "nairobi",
+        "code": "NBO",
+        "generalInformation": {
+            "currency": "Kenyan Shilling (KES)",
+            "language": [
+                "Swahili",
+                "English",
+                "Local Dialects"
+            ],
+            "hubAirport": "Jomo Kenyatta International Airport (NBO)",
+            "airlines": [
+                "Kenya Airways"
+            ],
+            "timeZone": "GMT+3",
+            "travelAdaptor": [
+                "Type G"
+            ]
+        },
+        "about": "Nairobi, the capital city of Kenya, is a captivating blend of urban energy, natural beauty, and rich cultural heritage. Renowned for its vibrant markets, stunning national parks, and world-class museums, this city offers a unique experience for travelers. From the iconic Nairobi National Park to the bustling Kibera slum, Nairobi has something to offer everyone.",
+        "attractions": [
+            {
+                "name": "Nairobi National Park",
+                "description": "A unique wildlife reserve, offering safari drives and the opportunity to spot the Big Four (lion, leopard, rhinoceros, and Cape buffalo).",
+                "image": ""
+            },
+            {
+                "name": "National Museum of Kenya",
+                "description": "A premier museum, featuring a collection of Kenyan art, culture, and natural history.",
+                "image": ""
+            },
+            {
+                "name": "Giraffe Centre",
+                "description": "A conservation center, offering the opportunity to feed and learn about endangered Rothschild's giraffes.",
+                "image": ""
+            },
+            {
+                "name": "Karura Forest",
+                "description": "A scenic forest reserve, offering hiking trails, waterfalls, and picnic sites.",
+                "image": ""
+            },
+            {
+                "name": "Two Rivers Mall",
+                "description": "A popular shopping center, featuring international brands, restaurants, and entertainment options.",
+                "image": ""
+            },
+            {
+                "name": "Kibera Slum",
+                "description": "A vibrant informal settlement, offering guided tours and insight into urban Kenyan life.",
+                "image": ""
+            },
+            {
+                "name": "Elephant Orphanage",
+                "description": "A conservation center, caring for orphaned and injured elephants, offering feeding and adoption programs.",
+                "image": ""
+            },
+            {
+                "name": "Lake Nakuru National Park",
+                "description": "A scenic park, famous for its pink flamingos, rhinoceros, and the annual wildebeest migration.",
+                "image": ""
+            },
+            {
+                "name": "Village Market",
+                "description": "A popular shopping center, featuring local handicrafts, souvenirs, and international restaurants.",
+                "image": ""
+            }
+        ],
+        "howToBook": [
+            "Be Flexible: Consider traveling during off-peak seasons or weekdays to secure lower fares.",
+            "Compare Prices: Utilize online travel agencies and airline websites to compare prices and find the best deals.",
+            "Book in Advance: Booking your flights well in advance can often lead to significant savings.",
+            "Consider Deelaa Travel: Deelaa Travel is a trusted travel agency that can help you find affordable flights to Nairobi. With their expertise and personalized service, they can assist you in planning a memorable trip."
+        ],
+        "bannerImage": "",
+        "continent": "Africa",
+        "popularAirlines": [
+            {
+                "image": "",
+                "airline": "Kenya Airways"
+            },
+            {
+                "image": "",
+                "airline": "British Airways"
+            },
+            {
+                "image": "",
+                "airline": "Emirates"
+            }
+        ]
+    },
+    {
+        "destination": "Accra",
+        "location": {
+            "city": "Accra",
+            "country": "Ghana"
+        },
+        "slug": "accra",
+        "code": "ACC",
+        "generalInformation": {
+            "currency": "Ghanaian Cedi (GHS)",
+            "language": [
+                "English",
+                "Akan",
+                "Local Dialects"
+            ],
+            "hubAirport": "Kotoka International Airport (ACC)",
+            "airlines": [
+                "Ghana Airways"
+            ],
+            "timeZone": "GMT",
+            "travelAdaptor": [
+                "Type D",
+                "Type G"
+            ]
+        },
+        "about": "Accra, the capital city of Ghana, is a captivating blend of rich history, cultural heritage, and modern attractions. Renowned for its vibrant markets, stunning beaches, and world-class museums, this city offers a unique experience for travelers. From the iconic Independence Square to the bustling Makola Market, Accra has something to offer everyone.",
+        "attractions": [
+            {
+                "name": "Independence Square",
+                "description": "A historic square, featuring iconic monuments and hosting various events and celebrations.",
+                "image": ""
+            },
+            {
+                "name": "National Museum of Ghana",
+                "description": "A premier museum, showcasing Ghanaian art, culture, and history.",
+                "image": ""
+            },
+            {
+                "name": "Labadi Beach",
+                "description": "A popular beach, offering stunning ocean views, water sports, and a lively atmosphere.",
+                "image": ""
+            },
+            {
+                "name": "Makola Market",
+                "description": "A bustling marketplace, featuring local handicrafts, souvenirs, and traditional food.",
+                "image": ""
+            },
+            {
+                "name": "Kwame Nkrumah Mausoleum",
+                "description": "A memorial park dedicated to Ghana's first president, featuring a museum and mausoleum.",
+                "image": ""
+            },
+            {
+                "name": "Osu Castle",
+                "description": "A historic castle, formerly the seat of government, offering guided tours and scenic views of the ocean.",
+                "image": ""
+            },
+            {
+                "name": "Jamestown",
+                "description": "A vibrant fishing community, offering guided tours, historic architecture, and cultural festivals.",
+                "image": ""
+            },
+            {
+                "name": "Aburi Botanical Gardens",
+                "description": "A beautiful garden, featuring a collection of exotic plants and scenic walking trails.",
+                "image": ""
+            },
+            {
+                "name": "Cape Coast Castle",
+                "description": "A historic castle, offering guided tours and insight into Ghana's colonial past and the transatlantic slave trade.",
+                "image": ""
+            }
+        ],
+        "howToBook": [
+            "Be Flexible: Consider traveling during off-peak seasons or weekdays to secure lower fares.",
+            "Compare Prices: Utilize online travel agencies and airline websites to compare prices and find the best deals.",
+            "Book in Advance: Booking your flights well in advance can often lead to significant savings.",
+            "Consider Deelaa Travel: Deelaa Travel is a trusted travel agency that can help you find affordable flights to Accra. With their expertise and personalized service, they can assist you in planning a memorable trip."
+        ],
+        "bannerImage": "",
+        "continent": "Africa",
+        "popularAirlines": [
+            {
+                "image": "",
+                "airline": "Ghana Airways"
+            },
+            {
+                "image": "",
+                "airline": "British Airways"
+            },
+            {
+                "image": "",
+                "airline": "Emirates"
+            }
+        ]
+    },
+    {
+        "destination": "Dubai",
+        "slug": "dubai",
+        "code": "DXB",
+        "generalInformation": {
+            "country": "United Arab Emirates",
+            "currency": "Arab Emirates Dirham (AED)",
+            "language": [
+                "Arabic",
+                "English",
+                "Hindi"
+            ],
+            "hubAirport": "Dubai International Airport (DXB)",
+            "airline": "Emirates",
+            "timeZone": "GMT+4",
+            "travelAdaptor": [
+                "Type C",
+                "Type D",
+                "Type G"
+            ]
+        },
+        "about": "Dubai, one of the seven emirates of the United Arab Emirates, is a captivating blend of modern luxury, stunning architecture, and rich cultural heritage. Renowned for its iconic Burj Khalifa, world-class shopping malls, and traditional souks, this city offers a unique experience for travelers. From the scenic Dubai Marina to the historic Al Fahidi Neighbourhood, Dubai has something to offer everyone.",
+        "attractions": [
+            {
+                "name": "Burj Khalifa",
+                "description": "The tallest building in the world, offering breathtaking views of the city.",
+                "image": ""
+            },
+            {
+                "name": "Dubai Mall",
+                "description": "One of the largest shopping centers in the world, featuring international brands, ice skating, and cinema complexes.",
+                "image": ""
+            },
+            {
+                "name": "Palm Jumeirah",
+                "description": "A scenic man-made island, offering stunning beach resorts, water sports, and scenic views.",
+                "image": ""
+            },
+            {
+                "name": "Dubai Miracle Garden",
+                "description": "A floral wonderland, featuring stunning floral displays and scenic views.",
+                "image": ""
+            },
+            {
+                "name": "Dubai Museum",
+                "description": "A premier museum, showcasing Dubai's history, culture, and heritage.",
+                "image": ""
+            },
+            {
+                "name": "Jumeirah Mosque",
+                "description": "A beautiful mosque, offering guided tours and insight into Islamic culture.",
+                "image": ""
+            },
+            {
+                "name": "Desert Safari",
+                "description": "A thrilling adventure, featuring dune bashing, camel riding, and camping under the stars.",
+                "image": ""
+            },
+            {
+                "name": "Dubai Fountain Show",
+                "description": "A spectacular display of choreographed water, music, and lights.",
+                "image": ""
+            },
+            {
+                "name": "Global Village",
+                "description": "A cultural and entertainment park, featuring international pavilions, live shows, and traditional cuisine.",
+                "image": ""
+            }
+        ],
+        "howToBook": [
+            "Be Flexible: Consider traveling during off-peak seasons or weekdays to secure lower fares.",
+            "Compare Prices: Utilize online travel agencies and airline websites to compare prices and find the best deals.",
+            "Book in Advance: Booking your flights well in advance can often lead to significant savings.",
+            "Consider Deelaa Travel: Deelaa Travel is a trusted travel agency that can help you find affordable flights to Dubai. With their expertise and personalized service, they can assist you in planning a memorable trip."
+        ],
+        "bannerImage": "",
+        "continent": "Asia",
+        "popularAirlines": [
+            {
+                "image": "",
+                "airline": "Emirates"
+            },
+            {
+                "image": "",
+                "airline": "FlyDubai"
+            },
+            {
+                "image": "",
+                "airline": "Qatar Airways"
+            }
+        ]
+    },
+    {
+        "destination": "China",
+        "slug": "china",
+        "code": "PEK",
+        "generalInformation": {
+            "country": "China",
+            "currency": "Chinese Yuan (CNY)",
+            "language": [
+                "Mandarin Chinese",
+                "English"
+            ],
+            "hubAirports": [
+                "Beijing Capital International Airport (PEK)",
+                "Shanghai Pudong International Airport (PVG)",
+                "Guangzhou Baiyun International Airport (CAN)"
+            ],
+            "airlines": [
+                "Air China",
+                "China Eastern Airlines",
+                "China Southern Airlines"
+            ],
+            "timeZone": "GMT+8",
+            "travelAdaptor": [
+                "Type A",
+                "Type C",
+                "Type D"
+            ]
+        },
+        "about": "China, the world's most populous country, is a captivating blend of ancient history, stunning landscapes, and cutting-edge technology. Renowned for its iconic Great Wall, vibrant cities, and rich cultural heritage, this country offers a unique experience for travelers. From the futuristic skyscrapers of Shanghai to the ancient Terracotta Warriors of Xi'an, China has something to offer everyone.",
+        "attractions": [
+            {
+                "name": "Great Wall of China",
+                "description": "An iconic series of fortifications built across several Chinese dynasties.",
+                "image": ""
+            },
+            {
+                "name": "Forbidden City",
+                "description": "A historic palace complex in Beijing, showcasing imperial Chinese architecture and history.",
+                "image": ""
+            },
+            {
+                "name": "Li River",
+                "description": "A scenic river in Guilin, offering breathtaking karst landscape views and boat cruises.",
+                "image": ""
+            },
+            {
+                "name": "Terracotta Warriors",
+                "description": "A collection of life-sized clay soldiers in Xi'an, dating back to the Qin dynasty.",
+                "image": ""
+            },
+            {
+                "name": "Victoria Peak",
+                "description": "A scenic hill in Hong Kong, offering panoramic views of the city skyline.",
+                "image": ""
+            },
+            {
+                "name": "Panda Research Center",
+                "description": "A conservation center in Chengdu, dedicated to giant panda breeding and research.",
+                "image": ""
+            },
+            {
+                "name": "Yellow Mountains",
+                "description": "A scenic mountain range in Anhui, famous for its granite peaks and pine forests.",
+                "image": ""
+            },
+            {
+                "name": "West Lake",
+                "description": "A picturesque lake in Hangzhou, offering scenic boat cruises and walking paths.",
+                "image": ""
+            },
+            {
+                "name": "Silk Road",
+                "description": "A historic trade route, stretching from Xi'an to Kashgar, offering cultural and scenic experiences.",
+                "image": ""
+            }
+        ],
+        "howToBook": [
+            "Be Flexible: Consider traveling during off-peak seasons or weekdays to secure lower fares.",
+            "Compare Prices: Utilize online travel agencies and airline websites to compare prices and find the best deals.",
+            "Book in Advance: Booking your flights well in advance can often lead to significant savings.",
+            "Consider Deelaa Travel: Deelaa Travel is a trusted travel agency that can help you find affordable flights to China. With their expertise and personalized service, they can assist you in planning a memorable trip."
+        ],
+        "bannerImage": "",
+        "continent": "Asia",
+        "popularAirlines": [
+            {
+                "image": "",
+                "airline": "Air China"
+            },
+            {
+                "image": "",
+                "airline": "China Eastern Airlines"
+            },
+            {
+                "image": "",
+                "airline": "Cathay Pacific"
+            }
+        ]
+    },
+    {
+        "destination": "India",
+        "slug": "india",
+        "code": "DEL",
+        "generalInformation": {
+            "country": "India",
+            "currency": "Indian Rupee (INR)",
+            "language": [
+                "Hindi",
+                "English",
+                "Regional Languages"
+            ],
+            "hubAirports": [
+                "Indira Gandhi International Airport (DEL)",
+                "Chhatrapati Shivaji Maharaj International Airport (BOM)",
+                "Kempegowda International Airport (BLR)"
+            ],
+            "airlines": [
+                "Air India",
+                "IndiGo",
+                "SpiceJet"
+            ],
+            "timeZone": "GMT+5:30",
+            "travelAdaptor": [
+                "Type D"
+            ]
+        },
+        "about": "India, the seventh-largest country in the world, is a captivating blend of diverse cultures, stunning landscapes, and rich history. Renowned for its iconic Taj Mahal, vibrant cities, and scenic beaches, this country offers a unique experience for travelers. From the snow-capped Himalayas to the sun-kissed beaches of Goa, India has something to offer everyone.",
+        "attractions": [
+            {
+                "name": "Taj Mahal",
+                "description": "A stunning white marble mausoleum and one of the Seven Wonders of the World.",
+                "image": ""
+            },
+            {
+                "name": "Golden Temple",
+                "description": "A beautiful gurudwara (Sikh temple) made of gold and white marble.",
+                "image": ""
+            },
+            {
+                "name": "Goa Beaches",
+                "description": "Scenic beaches like Palolem, Baga, and Calangute, offering water sports, seafood, and vibrant nightlife.",
+                "image": ""
+            },
+            {
+                "name": "Red Fort",
+                "description": "A historic fort complex in Delhi, showcasing Mughal architecture and history.",
+                "image": ""
+            },
+            {
+                "name": "Varanasi Ghats",
+                "description": "Scenic riverbanks along the Ganges, offering spiritual experiences and stunning sunrises.",
+                "image": ""
+            },
+            {
+                "name": "Kerala Backwaters",
+                "description": "Scenic waterways and lakes in Kerala, offering houseboat cruises and tranquil surroundings.",
+                "image": ""
+            },
+            {
+                "name": "Hampi",
+                "description": "A historic town and UNESCO World Heritage Site, featuring ancient temples and ruins.",
+                "image": ""
+            },
+            {
+                "name": "Darjeeling Himalayan Railway",
+                "description": "A scenic toy train ride through the Himalayas, offering breathtaking views.",
+                "image": ""
+            },
+            {
+                "name": "Rajasthan Forts",
+                "description": "Historic forts and palaces in Rajasthan, showcasing royal architecture and history.",
+                "image": ""
+            }
+        ],
+        "howToBook": [
+            "Be Flexible: Consider traveling during off-peak seasons or weekdays to secure lower fares.",
+            "Compare Prices: Utilize online travel agencies and airline websites to compare prices and find the best deals.",
+            "Book in Advance: Booking your flights well in advance can often lead to significant savings.",
+            "Consider Deelaa Travel: Deelaa Travel is a trusted travel agency that can help you find affordable flights to India. With their expertise and personalized service, they can assist you in planning a memorable trip."
+        ],
+        "bannerImage": "",
+        "continent": "Asia",
+        "popularAirlines": [
+            {
+                "image": "",
+                "airline": "Air India"
+            },
+            {
+                "image": "",
+                "airline": "IndiGo"
+            },
+            {
+                "image": "",
+                "airline": "Emirates"
+            }
+        ]
+    },
+    {
+        "destination": "Japan",
+        "slug": "japan",
+        "code": "NRT",
+        "generalInformation": {
+            "country": "Japan",
+            "currency": "Japanese Yen (JPY)",
+            "language": [
+                "Japanese",
+                "English"
+            ],
+            "hubAirports": [
+                "Tokyo Narita International Airport (NRT)",
+                "Tokyo Haneda Airport (HND)",
+                "Kansai International Airport (KIX)"
+            ],
+            "airlines": [
+                "Japan Airlines",
+                "All Nippon Airways",
+                "Peach Aviation"
+            ],
+            "timeZone": "GMT+9",
+            "travelAdaptor": [
+                "Type A"
+            ]
+        },
+        "about": "Japan, an archipelago in East Asia, is a captivating blend of ancient traditions, stunning landscapes, and cutting-edge technology. Renowned for its vibrant cities, historic temples, and breathtaking scenery, this country offers a unique experience for travelers. From the neon-lit streets of Tokyo to the serene gardens of Kyoto, Japan has something to offer everyone.",
+        "attractions": [
+            {
+                "name": "Tokyo Skytree",
+                "description": "A towering broadcasting tower offering panoramic views of Tokyo.",
+                "image": ""
+            },
+            {
+                "name": "Fushimi Inari Shrine",
+                "description": "A historic Shinto shrine famous for its thousands of vermilion torii gates.",
+                "image": ""
+            },
+            {
+                "name": "Mount Fuji",
+                "description": "An iconic active volcano and Japan's highest peak, offering scenic views and hiking opportunities.",
+                "image": ""
+            },
+            {
+                "name": "Kinkaku-ji Temple",
+                "description": "A stunning golden pavilion in Kyoto, showcasing Japanese architecture and gardens.",
+                "image": ""
+            },
+            {
+                "name": "Arashiyama Bamboo Grove",
+                "description": "A serene and picturesque bamboo forest in Kyoto, perfect for walking and relaxation.",
+                "image": ""
+            },
+            {
+                "name": "Sapporo Snow Festival",
+                "description": "A popular winter festival in Hokkaido, featuring intricate snow and ice sculptures.",
+                "image": ""
+            },
+            {
+                "name": "Miyajima Island",
+                "description": "A scenic island near Hiroshima, famous for its historic Itsukushima Shrine and stunning sunsets.",
+                "image": ""
+            },
+            {
+                "name": "Nikko National Park",
+                "description": "A UNESCO World Heritage Site, featuring ornate temples, shrines, and scenic lakes.",
+                "image": ""
+            },
+            {
+                "name": "Okinawa Beaches",
+                "description": "Stunning beaches in southern Japan, offering crystal-clear waters, snorkeling, and diving opportunities.",
+                "image": ""
+            }
+        ],
+        "howToBook": [
+            "Be Flexible: Consider traveling during off-peak seasons or weekdays to secure lower fares.",
+            "Compare Prices: Utilize online travel agencies and airline websites to compare prices and find the best deals.",
+            "Book in Advance: Booking your flights well in advance can often lead to significant savings.",
+            "Consider Deelaa Travel: Deelaa Travel is a trusted travel agency that can help you find affordable flights to Japan. With their expertise and personalized service, they can assist you in planning a memorable trip."
+        ],
+        "bannerImage": "",
+        "continent": "Asia",
+        "popularAirlines": [
+            {
+                "image": "",
+                "airline": "Japan Airlines"
+            },
+            {
+                "image": "",
+                "airline": "All Nippon Airways"
+            },
+            {
+                "image": "",
+                "airline": "Singapore Airlines"
+            }
+        ]
+    }
+]
